@@ -14,8 +14,8 @@ TagManager:
   - UI
   - 
   - 
+  - Ground
   - Projectiles
-  - 
   - 
   - 
   - 
@@ -50,6 +50,9 @@ TagManager:
     locked: 0
   - name: Projectiles
     uniqueID: 417589873
+    locked: 0
+  - name: Trajectory UI
+    uniqueID: 73823701
     locked: 0
   - name: Player
     uniqueID: 418769441
